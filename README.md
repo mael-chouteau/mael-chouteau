@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mael-chouteau
 - 👀 I’m interested in cybersecurity and entrepreneurship
 - 🌱 I’m currently learning PHP and vue.js
-- 💞️ I’m looking to collaborate on the lawmia project
+- 💞️ I’m looking to collaborate on the [**lawmia**](https://github.com/lawmia/server) project
 - 📫 How to reach me **comming soon**
 
 <!---
